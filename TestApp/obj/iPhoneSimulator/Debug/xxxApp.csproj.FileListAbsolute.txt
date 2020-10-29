@@ -1,0 +1,14 @@
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/bin/iPhoneSimulator/Debug/TestApp.exe
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/bin/iPhoneSimulator/Debug/TestApp.pdb
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.1/actool/_PartialAppManifest.items
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.1/coremlc/_PartialAppManifest.items
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.1/optimized/
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/xxxApp.csproj.CoreCompileInputs.cache
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/xxxApp.csproj.CopyComplete
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/TestApp.exe
+/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/iPhoneSimulator/Debug/TestApp.pdb

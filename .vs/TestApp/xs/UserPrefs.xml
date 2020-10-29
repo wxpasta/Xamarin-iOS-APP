@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{35F9B8D6-C01B-442C-A186-336EF773F668}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/Tree/TreeTableView.cs">
+    <Files>
+      <File FileName="TestApp/ViewController.cs" Line="24" Column="13" />
+      <File FileName="TestApp/DeviceHelper.cs" Line="4" Column="17" />
+      <File FileName="TestApp/Tree/NodeModel.cs" Line="3" Column="1" />
+      <File FileName="TestApp/Tree/TreeTableView.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="TestApp" expanded="True">
+              <Node name="Tree" expanded="True">
+                <Node name="TreeTableView.cs" selected="True" />
+              </Node>
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9C37825C-C324-4EC4-90E9-EA051C1FD37B" />
+</Properties>

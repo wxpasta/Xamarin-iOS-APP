@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj": {}
+  },
+  "projects": {
+    "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj",
+        "projectName": "TestApp",
+        "projectPath": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj",
+        "packagesPath": "/Users/magic-devel/.nuget/packages/",
+        "outputPath": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/magic-devel/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

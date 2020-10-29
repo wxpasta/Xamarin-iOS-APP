@@ -1,0 +1,14 @@
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/bin/iPhone/Debug/TestApp.exe
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/bin/iPhone/Debug/TestApp.pdb
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/device-builds/iphone10.3-14.0.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/device-builds/iphone10.3-14.0.1/actool/_PartialAppManifest.items
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/device-builds/iphone10.3-14.0.1/actool/_BundleResourceWithLogicalName.items
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/device-builds/iphone10.3-14.0.1/coremlc/_PartialAppManifest.items
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/device-builds/iphone10.3-14.0.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/device-builds/iphone10.3-14.0.1/optimized/
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/TestApp.csproj.CoreCompileInputs.cache
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/TestApp.csproj.CopyComplete
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/TestApp.exe
+/Users/magic-devel/Documents/TestDemo/TestApp/TestApp/obj/iPhone/Debug/TestApp.pdb
