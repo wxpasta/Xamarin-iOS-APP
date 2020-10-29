@@ -1,11 +1,17 @@
 ﻿<Properties StartupConfiguration="{35F9B8D6-C01B-442C-A186-336EF773F668}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/Helper/DeviceHelper.cs">
+    <Files>
+      <File FileName="TestApp/DeviceHelper.cs" Line="4" Column="13" />
+      <File FileName="TestApp/ImageTool.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Xamarin-iOS-APP" expanded="True" selected="True">
+          <Node name="Xamarin-iOS-APP" expanded="True">
             <Node name="xxxApp" expanded="True">
-              <Node name="Tree" expanded="True" />
+              <Node name="Helper" expanded="True">
+                <Node name="DeviceHelper.cs" selected="True" />
+              </Node>
               <Node name="ViewController.cs" expanded="True" />
             </Node>
           </Node>

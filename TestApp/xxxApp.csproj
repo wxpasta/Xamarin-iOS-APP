@@ -117,6 +117,7 @@
     <ItemGroup>
         <Folder Include="Resources\" />
         <Folder Include="Tree\" />
+        <Folder Include="Helper\" />
     </ItemGroup>
     <ItemGroup>
         <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -136,7 +137,8 @@
         </Compile>
         <Compile Include="Tree\NodeModel.cs" />
         <Compile Include="Tree\TreeTableView.cs" />
-        <Compile Include="DeviceHelper.cs" />
+        <Compile Include="Helper\DeviceHelper.cs" />
+        <Compile Include="ImageTool.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
