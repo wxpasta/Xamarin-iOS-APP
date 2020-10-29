@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsRz67BpOPfu+H3KsidL0oYiHqu7Bwjv3Dw/FUU27Sp0+N75cPVuI6pMnxlfvt9/cXxF/q3cR2jCwy0uf/55Dg==",
+  "dgSpecHash": "05asf18B3Qz5Pt4/cTwoAeB+HGR+ERNMpoSpQo5ZJXPji7ptmW0X+ZLjKrnkBcxsoK0dluLQGx84hbzbnSoneA==",
   "success": true,
-  "projectFilePath": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj",
+  "projectFilePath": "/Users/magic-devel/Documents/GitHub/Xamarin-iOS-APP/TestApp/xxxApp.csproj",
   "expectedPackageFiles": [
     "/Users/magic-devel/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
   ],

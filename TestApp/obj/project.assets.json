@@ -123,11 +123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj",
+      "projectUniqueName": "/Users/magic-devel/Documents/GitHub/Xamarin-iOS-APP/TestApp/xxxApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/xApp.csproj",
+      "projectPath": "/Users/magic-devel/Documents/GitHub/Xamarin-iOS-APP/TestApp/xxxApp.csproj",
       "packagesPath": "/Users/magic-devel/.nuget/packages/",
-      "outputPath": "/Users/magic-devel/Documents/TestDemo/iOS-App/TestApp/obj/",
+      "outputPath": "/Users/magic-devel/Documents/GitHub/Xamarin-iOS-APP/TestApp/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
