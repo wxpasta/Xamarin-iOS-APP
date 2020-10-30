@@ -139,6 +139,7 @@
         <Compile Include="Tree\TreeTableView.cs" />
         <Compile Include="Helper\DeviceHelper.cs" />
         <Compile Include="ImageTool.cs" />
+        <Compile Include="Helper\NetworkHelper.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
